@@ -1,6 +1,6 @@
 <p align="center">
-<img src="interfacenetflix.png" alt="demonstração do projeto" width="100%" />
-<img src="interfacenetflix.png" alt="demonstração do projeto" width="100%" />
+<img src="interfacenetflix.PNG" alt="demonstração do projeto" width="100%"/>
+<img src="interfacenetflix.PNG" alt="demonstração do projeto" width="100%"/>
 </p>
 
 ## 🖥️ Projeto
