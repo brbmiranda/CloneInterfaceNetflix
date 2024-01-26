@@ -5,7 +5,7 @@
 
 ## 🖥️ Projeto
 
-Pagina Clone Netflix 
+Pagina Clone Netflix, para observar melhor o resultado: https://brbmiranda.github.io/CloneInterfaceNetflix/
 
 ## 🚀 Tecnologias
 
