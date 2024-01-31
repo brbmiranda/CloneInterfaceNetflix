@@ -5,7 +5,8 @@
 
 ## 🖥️ Projeto
 
-Pagina Clone Netflix, para observar melhor o resultado: https://brbmiranda.github.io/CloneInterfaceNetflix/
+Nesse projeto de Pagina Clone Netflix responsiva foi utilizado efeito carrosel usando Jquery. 
+para observar melhor o resultado: https://brbmiranda.github.io/CloneInterfaceNetflix/
 
 ## 🚀 Tecnologias
 
