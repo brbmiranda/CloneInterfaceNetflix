@@ -12,6 +12,7 @@ Pagina Clone Netflix responsiva, nesse projeto foi utilizado efeito carrosel usa
 ## 🚀 Tecnologias
 
 - Javascript
+- JQuery
 - HTML
 - CSS
 - Git e Github
